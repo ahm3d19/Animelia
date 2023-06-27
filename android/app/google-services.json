@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "848549729835",
+    "project_id": "animelia",
+    "storage_bucket": "animelia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848549729835:android:208f0f28f322d31c717c6e",
+        "android_client_info": {
+          "package_name": "com.animelia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848549729835-6e8ffcogiapq8cak0kca5gralf6ugvmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQdsCmotFHoYXgUi0BFQgL6KH-AXpYZDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848549729835-6e8ffcogiapq8cak0kca5gralf6ugvmh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848549729835-mir0foaisnuevpade8ar5ftsjp3sju8q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Animelia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
